@@ -21,4 +21,4 @@ client.on('messageCreate', (message) => {
     comandos(message, client);
 });
 //Login para conectar con discord usando el token (ESTO ES PRIVADO)
-client.login('MTE3MzY0NTY1NTMxMTQwNTA4Nw.Gdcz8n.hOQqJsW6TvMYMJVmC526-k7XHKlpKL2KlaALx0');
+client.login('HERE_GOES_YOUR_TOKEN');
